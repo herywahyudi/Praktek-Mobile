@@ -1,14 +1,16 @@
 # Android Attendance App
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=301115)
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=301115)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/herywahyudi/Praktek-Mobile/blob/main/LICENSE)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=00ff00)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=00ff00)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/herywahyudi/Praktek-Mobile/blob/main/LICENSE)
 
 ## Contributing
 
 We welcome contributions to Android Attendance App!
+
 ✨ ⇄ Pull requests and ★ Stars are always welcome.
+
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed
 
 ## License
