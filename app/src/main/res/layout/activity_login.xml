@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login"
+    android:orientation="vertical"
+    tools:context=".Login">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:gravity="center"
+        android:text="Attedance Student"
+        android:textColor="#A68B81"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STMIK MARDIRA INDONESIA"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#A68B81"/>
+
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_marginTop="36dp"
+            android:layout_width="284dp"
+            android:layout_height="wrap_content"
+            android:text="NIM"
+            android:textSize="12dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+        <EditText
+            android:id="@+id/etNim"
+            android:layout_marginTop="15dp"
+            android:layout_width="284dp"
+            android:layout_height="37dp"
+            android:background="@drawable/kustom1"/>
+
+        <TextView
+            android:layout_marginTop="8dp"
+            android:layout_width="284dp"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:textSize="13dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_marginTop="15dp"
+            android:layout_width="284dp"
+            android:layout_height="37dp"
+            android:background="@drawable/kustom1"/>
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="284dp"
+            android:layout_height="37dp"
+            android:layout_marginTop="36dp"
+            android:background="@drawable/kustom3"
+            android:text="Login"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="284dp"
+            android:layout_height="37dp"
+            android:layout_marginTop="15dp"
+            android:text="Register"
+            android:backgroundTint="#751919"/>
+
+    </LinearLayout>
+
+</LinearLayout>
